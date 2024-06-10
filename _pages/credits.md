@@ -26,6 +26,7 @@ with thanks to the following people for their contributions to the website:
 - [Gloria Boakye]({{site.g}}/Globak143)
 - [Kwadwo Agyapon-Ntra]({{site.g}}/KayO-GH)
 - [David Chuka]({{site.g}}/ChuckD30)
+- [Peter Olayinka]({{site.g}}/peterolayinka)
 
 
 
